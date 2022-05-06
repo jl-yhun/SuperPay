@@ -1,0 +1,26 @@
+@import "fonts.css";
+
+#barra {
+    background: #d6d6d6;
+    background-image: linear-gradient(to right,#28437b,#437e7a,#5cb47a);
+    background-repeat: repeat-x;
+}
+.montserrat-bold{
+    font-family: montserrat-bold;
+}
+.montserrat{
+    font-family: montserrat;
+}
+.texto-blanco{
+    color: white;
+}
+.padre {
+    display: flex;
+    align-items: center;
+}
+.texto-verde{
+    color: #5cb47a;
+}
+.texto-azul{
+    color: #28437b;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: bicubik;
+    src: url("../css/fonts/bicubik.otf");
+}
+@font-face {
+    font-family: montserrat;
+    src: url("../css/fonts/Montserrat-Light.otf");
+}
+@font-face {
+    font-family: montserrat-bold;
+    src: url("../css/fonts/Montserrat-SemiBold.otf");
+}
