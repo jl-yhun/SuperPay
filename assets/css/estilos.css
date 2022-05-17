@@ -3,13 +3,6 @@
     width: 2480px !important;
     height: 3508px !important;
 }
-.centrado{
-    margin-left: 100px;
-    margin-right: 100px;
-}
-.letra{
-    font-size: 40px;
-}
 #barra {
     background: #d6d6d6;
     background-image: linear-gradient(to right,#28437b,#437e7a,#5cb47a);
